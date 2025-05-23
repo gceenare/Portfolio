@@ -24,7 +24,7 @@ I am currently a **third-year student in ICT Applications Development** at **Cap
 ## 📬 Contact Me
 Want to collaborate or discuss ideas? Let's connect!
 - LinkedIn: Gcina Mbabe(www.linkedin.com/in/gcina-mbabe-73962a254)
-- Email: gcinambabe20@gmil.com
+- Email: gcinambabe20@gmail.com
 - Twitter: @gcina201(https://x.com/gcina201)
 
 
