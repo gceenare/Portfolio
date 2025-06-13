@@ -54,7 +54,7 @@ This portfolio represents my journey toward becoming an **industry-ready softwar
 ---
 
 ## 📬 CV Submission  
-📄 **[CV Submission Evidence](https://github.com/gceenare/Portfolio/blob/main/Port%20Gceezy.docx)**  
+📄 **[CV Submission Evidence](https://github.com/gceenare/Portfolio/blob/main/GcinaMbabeResume%20(1).pdf)**  
 
 **STAR Reflection:**  
 - **Situation:** I needed to formally submit my CV for internship opportunities.  
