@@ -1,4 +1,4 @@
-# 🚀 Gcina Mbabe - Github Portfolio
+# 🚀 Gcina Mbabe - GitHub Portfolio
 
 ## 🏆 Introduction  
 Welcome to my **Work Readiness Training Digital Portfolio**. This portfolio highlights my personal and professional development through **structured evidence and critical reflections using the STAR technique**.  
@@ -48,7 +48,7 @@ This portfolio represents my journey toward becoming an **industry-ready softwar
 **STAR Reflection:**  
 - **Situation:** My previous CV lacked **technical project details** and industry relevance.  
 - **Task:** I needed to develop a **professional CV** tailored for IT internships and developer roles.  
-- **Action:** Designed a **modern layout**, highlighted projects such as **Print101 and Amber-Alert**, and refined my skills section with **peer and lecturer feedback**.  
+- **Action:** Designed a **modern layout**, highlighted projects such as **Print101** and **Amber-Alert**, and refined my skills section with **peer and lecturer feedback**.  
 - **Result:** My final CV now reflects an **industry-ready IT candidate**, and I have started submitting applications to **internships and tech startups**.  
 
 ---
@@ -64,50 +64,38 @@ This portfolio represents my journey toward becoming an **industry-ready softwar
 
 ---
 
-💼 Interview Skills
+## 💼 Interview Skills  
+📄 **[Interview Skills Evidence](https://github.com/gceenare/Portfolio/blob/main/Screenshot%202025-10-18%20210145.png)**  
 
-📄 Evidence:
+**STAR Reflection:**  
+- **Situation:** Preparing for internship interviews, I struggled to communicate my technical skills confidently.  
+- **Task:** Improve my ability to structure answers and connect them to real experiences.  
+- **Action:** Practiced mock interviews, used the **STAR method**, and refined my responses based on feedback.  
+- **Result:** I can now confidently articulate project experiences and demonstrate my technical depth during interviews.  
 
-📝 STAR Reflection:
+---
 
-Situation: Preparing for internship interviews, I struggled to communicate my technical skills confidently.
+## 🎤 Mock Interview  
+📄 **[Mock Interview Evidence](https://github.com/gceenare/Portfolio/blob/main/Screenshot%202025-10-18%20210500.png)**  
 
-Task: Improve my ability to structure answers and connect them to real experiences.
+**STAR Reflection:**  
+- **Situation:** I participated in a recorded mock interview focusing on **Java development roles**.  
+- **Task:** Demonstrate my technical and soft skills under interview conditions.  
+- **Action:** Prepared responses using the **STAR framework**, dressed professionally, and engaged confidently.  
+- **Result:** Received positive feedback for **clear communication and structured answers**. I now feel ready for real industry interviews.  
 
-Action: Practiced mock interviews, used the STAR method, and refined my responses based on feedback.
+---
 
-Result: I can now confidently articulate project experiences and demonstrate my technical depth during interviews.
+## 🤝 Workplace Etiquette  
+📄 **[Workplace Etiquette Evidence](https://github.com/gceenare/Portfolio/blob/main/image.png)**  
 
+**STAR Reflection:**  
+- **Situation:** While working on the **Print101 group project**, our team faced coordination issues and communication gaps.  
+- **Task:** Maintain professionalism and ensure effective collaboration.  
+- **Action:** Encouraged **respectful communication**, managed tasks using **Trello**, and promoted accountability.  
+- **Result:** Improved **team workflow** and **mutual respect**, strengthening my understanding of workplace etiquette and professionalism.  
 
-🎤 Mock Interview
-
-📄 Evidence:https://github.com/gceenare/Portfolio/blob/main/Screenshot%202025-10-18%20210500.png
-Video/audio or transcript of my mock interview session.
-
-📝 STAR Reflection:
-
-Situation: I participated in a recorded mock interview focusing on Java development roles.
-
-Task: Demonstrate my technical and soft skills under interview conditions.
-
-Action: Prepared responses using the STAR framework, dressed professionally, and engaged confidently.
-
-Result: Received positive feedback for clear communication and structured answers. I now feel ready for real industry interviews.
-
-🤝 Workplace Etiquette
-
-📄 Evidence:https://github.com/gceenare/Portfolio/blob/main/image.png
-Reflection on professional behavior during teamwork, communication, punctuality, and remote collaboration.
-
-📝 STAR Reflection:
-
-Situation: While working on the Print101 group project, our team faced coordination issues and communication gaps.
-
-Task: Maintain professionalism and ensure effective collaboration.
-
-Action: Encouraged respectful communication, managed tasks using Trello, and promoted accountability.
-
-Result: Improved team workflow and mutual respect, strengthening my understanding of workplace etiquette and professionalism.
+---
 
 ## 🚀 Career Development & Future Goals  
 As a **third-year student in ICT Applications Development** at **Cape Peninsula University of Technology**, I am focused on:  
@@ -120,13 +108,14 @@ As a **third-year student in ICT Applications Development** at **Cape Peninsula 
 
 ## 📞 Contact & Collaboration  
 Want to collaborate or discuss industry opportunities? Connect with me:  
-- LinkedIn: **[Gcina Mbabe](www.linkedin.com/in/gcina-mbabe-73962a254)**  
-- Email: **gcinambabe20@gmail.com**  
-- Twitter: **[@gcina201](https://x.com/gcina201)**  
+- **LinkedIn:** [Gcina Mbabe](https://www.linkedin.com/in/gcina-mbabe-73962a254)  
+- **Email:** [gcinambabe20@gmail.com](mailto:gcinambabe20@gmail.com)  
+- **Twitter/X:** [@gcina201](https://x.com/gcina201)  
 
 ---
 
-### ✅ Final Thoughts  
-This **Work Readiness Digital Portfolio** serves as a **structured representation of my personal, technical, and professional growth**. The evidence provided reflects **authentic industry preparation**, and my continuous learning will help me **adapt to future roles** in the IT sector.  
+## ✅ Final Thoughts  
+This **Work Readiness Digital Portfolio** serves as a **structured representation of my personal, technical, and professional growth**.  
+The evidence provided reflects **authentic industry preparation**, and my continuous learning will help me **adapt to future roles** in the IT sector.  
 
-I'm excited about the next phase of my career! 🚀  
+I'm excited about the next phase of my career! 🚀
