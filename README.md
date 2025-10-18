@@ -64,6 +64,51 @@ This portfolio represents my journey toward becoming an **industry-ready softwar
 
 ---
 
+💼 Interview Skills
+
+📄 Evidence:
+
+📝 STAR Reflection:
+
+Situation: Preparing for internship interviews, I struggled to communicate my technical skills confidently.
+
+Task: Improve my ability to structure answers and connect them to real experiences.
+
+Action: Practiced mock interviews, used the STAR method, and refined my responses based on feedback.
+
+Result: I can now confidently articulate project experiences and demonstrate my technical depth during interviews.
+
+
+🎤 Mock Interview
+
+📄 Evidence:
+Video/audio or transcript of my mock interview session.
+
+📝 STAR Reflection:
+
+Situation: I participated in a recorded mock interview focusing on Java development roles.
+
+Task: Demonstrate my technical and soft skills under interview conditions.
+
+Action: Prepared responses using the STAR framework, dressed professionally, and engaged confidently.
+
+Result: Received positive feedback for clear communication and structured answers. I now feel ready for real industry interviews.
+
+🤝 Workplace Etiquette
+
+📄 Evidence:
+Reflection on professional behavior during teamwork, communication, punctuality, and remote collaboration.
+
+📝 STAR Reflection:
+
+Situation: While working on the Print101 group project, our team faced coordination issues and communication gaps.
+
+Task: Maintain professionalism and ensure effective collaboration.
+
+Action: Encouraged respectful communication, managed tasks using Trello, and promoted accountability.
+
+Result: Improved team workflow and mutual respect, strengthening my understanding of workplace etiquette and professionalism.
+
 ## 🚀 Career Development & Future Goals  
 As a **third-year student in ICT Applications Development** at **Cape Peninsula University of Technology**, I am focused on:  
 - 🌍 **Advanced Mobile Development:** Exploring scalable **Android applications** using **Jetpack Compose**.  
