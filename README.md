@@ -81,7 +81,7 @@ Result: I can now confidently articulate project experiences and demonstrate my 
 
 🎤 Mock Interview
 
-📄 Evidence:
+📄 Evidence:https://github.com/gceenare/Portfolio/blob/main/Screenshot%202025-10-18%20210500.png
 Video/audio or transcript of my mock interview session.
 
 📝 STAR Reflection:
